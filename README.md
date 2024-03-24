@@ -14,4 +14,4 @@ My current little helper. At pragueschool.media, we host lots of public educatio
 It's the easiest onboarding to Colab ever, providing the brave experimenter with a free and secure tool to play.
 - [Simple Whisper Notebook](https://github.com/sportlosos/altyn/blob/main/Simple_Whisper.ipynb)
 
-![Image description or alt text](https://github.com/sportlosos/altyn/assets/13203603/269518f1-0f44-4a42-9c78-aa88d62c1ee6)
+https://github.com/sportlosos/altyn/assets/13203603/269518f1-0f44-4a42-9c78-aa88d62c1ee6
