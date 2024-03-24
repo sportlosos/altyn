@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# editorial 
 Here are a few Colab notebooks for daily routines:
 
 **VideoeditorKukulin**: A basic video editor developed for my friend who has no experience at all in the subject but wants to use short videos with subtitles in his lectures (lots of instructions!).
