@@ -2,7 +2,7 @@
 
 Here are a few Colab notebooks for daily routines:
 
-## VideoeditorKukulin
+## Video editor Kukulin
 A basic video editor developed for my friend who has no experience at all in the subject but wants to use short videos with subtitles in his lectures (lots of instructions!).
 - [Video Editor Kukulin24_1 Notebook](https://github.com/sportlosos/altyn/blob/main/Video_Editor_Kukulin24_1.ipynb)
 
